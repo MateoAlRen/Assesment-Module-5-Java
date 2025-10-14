@@ -1,0 +1,5 @@
+user_id,user_name,user_email,user_password,staff_member
+1,Juan Perez,juan.perez@mail.com,1234,True
+2,Ana Gómez,ana.gomez@mail.com,abcd,False
+3,Carlos Díaz,carlos.diaz@mail.com,qwerty,True
+4,María Torres,maria.torres@mail.com,pass123,False
